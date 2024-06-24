@@ -1,3 +1,4 @@
+<!-- {"layout": "title"} -->
 # Super Loja
 
 Vendendo o que você não quer comprar desde 2017. Baixe os [arquivos aqui][baixar].
