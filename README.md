@@ -127,4 +127,4 @@ Dentro de um arquivo CSS, você pode criar uma regra `@media` assim:
 ```
 
 [viewport]: https://willsallum.github.io/cefet_front_end/classes/css7/#a-tag-meta-viewport
-[menu-lateral]: https://willsallum.github.io/cefet_front_end/classes/js2/#menu-lateral
+[menu-lateral]: https://willsallum.github.io/cefet_front_end/classes/js2/#um-menu-lateral-aparecer
