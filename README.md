@@ -1,6 +1,4 @@
 <!-- {"layout": "title"} -->
-# Super Loja
-
 # A **Super** Loja :convenience_store:
 ## Lojinha responsível
 
@@ -9,6 +7,8 @@
 ---
 
 <video src="//willsallum.github.io/cefet_front_end_large_assets/videos/super-store.webm" loop="-1" controls id="super-store"></video> 
+
+---
 
 Vendendo o que você não quer comprar desde 2017. Baixe os [arquivos aqui][baixar].
 O resultado final deve se parecer com isto aqui, em um dispositivo
